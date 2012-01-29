@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'asi_http_request' target in the 'asi_http_request' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
